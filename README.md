@@ -10,11 +10,8 @@ This repository contains code for a crypto chatbot powered by OpenAI's GPT-3.5 T
 
 To use the crypto chatbot, follow these steps:
 
-1. Clone the repository:
+1. Clone the repository
 
-   ```shell
-   git clone https://github.com/your_username/your_repository.git
-   ```
 
 2. Set up the API key:
    
@@ -30,7 +27,7 @@ To use the crypto chatbot, follow these steps:
 4. Run the code:
 
    ```shell
-   python chatbot.py
+   python cryptogpt.py
    ```
 
 5. Interact with the chatbot:
@@ -47,15 +44,9 @@ To use the crypto chatbot, follow these steps:
 Here are a few examples of interacting with the chatbot:
 
 ```shell
-You: What's the price of BTCUST?
-Bot: Here are the results I got:
-       <price information>
-       If you want to know more about this coin, please visit: https://www.binance.com/en/trade/BTCUST
+You: What'You: give me the price of matic
 
-You: How is the market today?
-Bot: <market analysis and trends>
-
-You: quit
+Bot: The current price of Matic (MATIC) is $0.6662. Please note that cryptocurrency prices are highly volatile and can change rapidly. It is always advisable to check the latest prices on a reliable cryptocurrency exchange platform.
 ```
 
 ## Notes
@@ -63,9 +54,7 @@ You: quit
 - The chatbot uses OpenAI's GPT-3.5 Turbo model for generating responses.
 - The Binance API is utilized to fetch real-time cryptocurrency prices.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contributions
 
