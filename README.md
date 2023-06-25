@@ -44,7 +44,7 @@ To use the crypto chatbot, follow these steps:
 Here are a few examples of interacting with the chatbot:
 
 ```shell
-You: What'You: give me the price of matic
+'You: give me the price of matic
 
 Bot: The current price of Matic (MATIC) is $0.6662. Please note that cryptocurrency prices are highly volatile and can change rapidly. It is always advisable to check the latest prices on a reliable cryptocurrency exchange platform.
 ```
