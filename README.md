@@ -17,6 +17,7 @@ To use the crypto chatbot, follow these steps:
    
    - Obtain an API key from OpenAI.
    - Set the API key as an environment variable named `OPENAI_API_KEY`.
+   - get a rapid api key or any crypto api you want to use , you can edit the fucntion for your needs
 
 3. Install the required dependencies:
 
